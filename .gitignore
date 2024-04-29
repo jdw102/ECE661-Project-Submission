@@ -1,0 +1,9 @@
+.venv
+data
+discriminator.pth
+generator.pth
+__pycache__
+discriminator_*.pth
+generator_*.pth
+generated_images
+*_generated_images
