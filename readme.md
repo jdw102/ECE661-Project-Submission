@@ -7,7 +7,7 @@ The paper explores various improvements and variants of the original GAN propose
 ## Installation
 To run the code in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/nrgbistro/GAN-Submission.git`
+1. Clone the repository: `git clone https://github.com/jdw102/ECE661-Project-Submission.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 2. Run the cells in the desired notebook file in the `/src` directory
 
